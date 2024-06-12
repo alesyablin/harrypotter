@@ -1,0 +1,71 @@
+<html>
+  <head>
+<title>Сайт про Гарри Поттера</title>
+<link rel="stylesheet" href="style.css">
+  </head>
+<body> 
+<header>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e5/Hogwarts-coat.svg/1200px-Hogwarts-coat.svg.png" width="60px" height="55px"/>
+  <a href="#film" style="font-size:20px">Главное </a>
+  <a href="#films" style="font-size:20px">Хрoнология фильмов</a>
+</header>
+<main>
+  <h1 id="film" style="text-align:center;">Гарри Поттер </h1>
+  <p> Серия романов, написанная британской писательницей Дж. К. Роулинг.</p>
+   <p> Книги представляют собой хронику приключений юного волшебника Гарри Поттера, а также его друзей Рона Уизли и Гермионы Грейнджер, обучающихся в школе чародейства и волшебства Хогвартс.</p>
+  <img src="https://pic.rutube.ru/video/af/c7/afc7ab6b0601db171f61e83e1385cd35.jpg" width="1000px" height="550px"/>
+  <h2 id="films"  style="text-align:center;">Хрoнология фильмов</h2>
+  <table style="border:1px solid FireBrick;background-color: FireBrick;color:AliceBlue">
+    <tr>
+     <td>Название фильма</td>
+      <td>Год выпуска </td>
+    </tr>
+    <tr>
+   <td>Гарри Поттер и филосовский камень</td>
+    <td>2001</td>  
+    </tr>
+     <tr>
+     <td>Гарри Поттер и тайная комната</td>
+      <td>2002</td> 
+     </tr>
+      <tr>
+      <td>Гарри Поттер и узник Азкабана</td>
+       <td>2004</td> 
+      </tr>
+     <tr>
+      <td>Гарри Поттер и Кубок Огня</td>
+       <td>2005</td>
+     </tr>
+     <tr>
+       <td>Гарри Поттер и Орден Феникса</td>
+       <td>2007</td>
+     </tr>
+     <tr>
+      <td>Гарри Поттер и Принц-Полукровка</td>
+       <td>2009</td>
+     </tr>
+     <td>Гарри Поттер и Дары смерти</td>
+       <td>2010</td>
+     </tr>
+     <tr>
+     <td>Гарри Поттер и Дары смерти.2 часть</td>
+      <td>2011</td>
+     </tr>
+  </table>
+</main>
+<footer><p style="text-align:center;">этот сайт сделала Алеся! </p></footer>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+  
+</html>
